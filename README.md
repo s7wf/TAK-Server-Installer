@@ -1,8 +1,3 @@
-Here’s a clean **GitHub README.md** for your TAK Server installer project.
-It includes clear usage instructions, security considerations, and customization options.
-
----
-
 ````markdown
 # TAK Server Auto Installer (Rocky Linux 8/9)
 
